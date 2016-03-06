@@ -1,6 +1,7 @@
 # PyDSA
 
 [![Build Status](https://travis-ci.org/pydsa/pydsa.svg?branch=master)](https://travis-ci.org/aktech/pydsa)
+[![Coverage Status](https://coveralls.io/repos/github/pydsa/pydsa/badge.svg?branch=master)](https://coveralls.io/github/pydsa/pydsa?branch=master)
 [![Join the chat at https://gitter.im/pydsa/pydsa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pydsa/pydsa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Documentation Status](https://readthedocs.org/projects/pydsa/badge/?version=latest)](http://pydsa.readthedocs.org/en/latest/?badge=latest)
 
